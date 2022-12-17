@@ -5,7 +5,7 @@ Yu Dong, Yunan Li, Qian Dong, He Zhang, Shifeng Chen
 
 
 <center >
-    <img src= "https://github.com/WeilanAnnn/SDA-GAN/blob/main/Fig/network.png"/>
+    <img src= "https://github.com/WeilanAnnn/SDA-GAN/blob/master/Fig/network.png"/>
 </center>
 
 
