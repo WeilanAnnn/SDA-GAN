@@ -11,6 +11,11 @@ Yu Dong, Yunan Li, Qian Dong, He Zhang, Shifeng Chen
 
   In this article, a semi-supervised learning paradigm is proposed for image dehazing. This paradigm has one branch with synthesized hazy images for supervised learning and the other with real hazy images for unsupervised learning. For a better generalization on real-world images, a domain alignment strategy is adapted to shorten the distance between the high-level haze features of the two branches in the latent space rather than directly share the network weights. Moreover, we introduce a haze-aware attention module according to the local entropy theory to facilitate adaptive attention on hazy regions. Therefore, our semi-supervised design can powerfully alleviate the domain-shift problem and generate better-dehazed results with clearer details and more natural color. Extensive experiments have demonstrated that our method performs favorably against state-of-the-art methods on both synthetic datasets and real-world hazy images.
 
+## Prerequisites
+1. Ubuntu 18.04
+2. PyTorch 1.6
+3. python package:numpy,scipy,PIL,skimage,h5py
+4. NVIDIA GPU + CUDA CuDNN 
 
 
 # Citation
