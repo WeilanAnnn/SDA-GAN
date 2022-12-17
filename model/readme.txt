@@ -1,0 +1,1 @@
+The two models are obtained from the same training process. To avoid model overfitting on the training datasets, we choose the inference model at the earlier epoch for real data and the last epoch for synthetic data. 
